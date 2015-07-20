@@ -1,0 +1,83 @@
+#u416
+{
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u1140
+{
+	background-color: #E9E9E9;
+}
+
+#u1140_align_to_page
+{
+	position: relative;
+}
+
+#u1023-7
+{
+	background-color: transparent;
+	text-align: justify;
+}
+
+#u1023-3
+{
+	font-size: 31px;
+	padding-right: 260px;
+	padding-left: 260px;
+	padding-top: 32px;
+	color: #7F7F7F;
+	font-family: la-belle-aurore, cursive;
+	font-weight: 400;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1023
+{
+	font-size: 36px;
+	font-family: pacifico, cursive;
+	font-weight: 400;
+	line-height: 45px;
+}
+
+#u1023-2
+{
+	line-height: 38px;
+}
+
+#u1023-5
+{
+	font-size: 18px;
+	line-height: 22px;
+	padding-right: 260px;
+	padding-left: 260px;
+	padding-top: 32px;
+	color: #998675;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 300;
+}
+
+#u557
+{
+	position: fixed;
+}
+
+#u265-4,#u267-4,#u266-4,#u268-4,#u269-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	color: #8DC9D0;
+	text-align: center;
+	font-size: 18px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+.js #u416.ose_pre_init,.js #u557.ose_pre_init,.js #u265-4.ose_pre_init,.js #u267-4.ose_pre_init,.js #u266-4.ose_pre_init,.js #u268-4.ose_pre_init,.js #u269-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
