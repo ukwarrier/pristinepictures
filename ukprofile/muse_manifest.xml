@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1437402276641">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1437406341958">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="403359161" ref="index"/>
-    <file name="index.css" crc="3862999221" ref="index"/>
+    <file name="index.css" crc="55329015" ref="index"/>
     <file name="iefonts_index.css" crc="3907525286" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -16,5 +16,5 @@
     <file name="uknewlogodesign.svg" crc="4200033159" ref="index"/>
     <file name="uknewlogodesign_poster_.png" crc="4253764483" ref="index"/>
   </folder>
-  <file name="index.html" crc="295042201" seo="true" mt="1437402233786" redirect="true"/>
+  <file name="index.html" crc="116655253" seo="true" mt="1437406310086" redirect="true"/>
 </manifest>
