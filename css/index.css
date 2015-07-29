@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #35F00C;
+	color: #0000F4;
+	background-color: #4DF733;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 2504px;
+	min-height: 1452px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,20 +25,8 @@
 #page_position_content
 {
 	padding-top: 88px;
-	padding-bottom: 1793px;
+	padding-bottom: 958px;
 	width: 0.01px;
-}
-
-#u1163
-{
-	z-index: 10;
-	height: 86px;
-	top: -5px;
-}
-
-#u1163-bw
-{
-	z-index: 10;
 }
 
 #slideshowu1292
@@ -60,29 +48,6 @@
 	z-index: 4;
 }
 
-#u1359
-{
-	z-index: 6;
-}
-
-#u1377-4
-{
-	z-index: 11;
-	width: 960px;
-	min-height: 109px;
-	top: 20px;
-	left: 50%;
-	margin-left: -480px;
-}
-
-#u1281
-{
-	z-index: 9;
-	top: 81px;
-	left: 50%;
-	margin-left: -374px;
-}
-
 #home
 {
 	left: -91px;
@@ -91,44 +56,82 @@
 	position: relative;
 }
 
-#pu1376
+#u1510-5
 {
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 200px;
-}
-
-#u1376,#u1376-bw
-{
-	z-index: 8;
-	height: 318px;
-}
-
-#u1379-6
-{
-	z-index: 15;
-	min-height: 197px;
-}
-
-#u1379-6-bw
-{
-	z-index: 15;
-	min-height: 197px;
-	margin-top: 166px;
-}
-
-#aboutme
-{
-	left: -61px;
-	margin-top: 29px;
+	z-index: 22;
+	width: 492px;
+	min-height: 49px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-left: 608px;
+	margin-top: 132px;
 	position: relative;
+}
+
+#u1508-11
+{
+	z-index: 7;
+	width: 492px;
+	min-height: 161px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 608px;
+	position: relative;
+}
+
+#u1508-7
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1508-4
+{
+	font-size: 19px;
+	line-height: 23px;
+}
+
+#u1508-3,#u1508-6
+{
+	line-height: 29px;
+}
+
+#u1509-4
+{
+	z-index: 18;
+	width: 492px;
+	min-height: 103px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: right;
+	font-size: 17px;
+	line-height: 20px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 608px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u1509-2
+{
+	padding-right: 27px;
 }
 
 body
 {
 	position: relative;
 	min-width: 1000px;
-	padding-bottom: 95px;
+	padding-bottom: 90px;
 }
 
 #page .verticalspacer

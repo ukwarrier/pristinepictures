@@ -1,0 +1,79 @@
+.version.pristpixnew /* version checker */
+{
+	color: #0000FE;
+	background-color: #ED8916;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/smoked.gif") no-repeat center top fixed;
+	background-size: contain;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 2504px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 88px;
+	padding-bottom: 1793px;
+	width: 0.01px;
+}
+
+#u1413
+{
+	z-index: 2;
+	height: 86px;
+	top: -5px;
+}
+
+#u1413-bw
+{
+	z-index: 2;
+}
+
+#u1414-4
+{
+	z-index: 3;
+	width: 960px;
+	min-height: 109px;
+	top: 20px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#home
+{
+	left: -91px;
+	position: relative;
+}
+
+#aboutme
+{
+	left: -61px;
+	margin-top: 592px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+	padding-bottom: 95px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

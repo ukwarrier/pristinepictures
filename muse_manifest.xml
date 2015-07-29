@@ -1,27 +1,31 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1437402860167">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1438196652129">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_pristinelanding_master.css" crc="296029557" ref="index"/>
-    <file name="index.css" crc="4113952780" ref="index"/>
+    <file name="site_global.css" crc="3832251208"/>
+    <file name="master_pristinelanding_master.css" crc="4280674045" ref="index"/>
+    <file name="index.css" crc="4098750259" ref="index"/>
+    <file name="master_prist_new_masters.css" crc="3839382139" ref="pristpixnew"/>
+    <file name="iefonts_index.css" crc="130859419" ref="index"/>
+    <file name="pristpixnew.css" crc="4276979990" ref="pristpixnew"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:pristpixnew"/>
+    <file name="museutils.js" crc="183364071" ref="index:pristpixnew"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:pristpixnew"/>
     <file name="webpro.js" crc="3803554875" ref="index"/>
     <file name="musewpslideshow.js" crc="242596657" ref="index"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
     <file name="touchswipe.js" crc="4038331989" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:pristpixnew"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="pristpixnew"/>
   </folder>
   <folder name="images">
     <file name="pristinelanding_master-favicon.ico" crc="3809930845" ref="index"/>
-    <file name="pix_website_display_2.jpg" crc="411625016" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pix_website_display_3.jpg" crc="4124640148" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="pp_landingpage_text.svg" crc="3928796483" ref="index"/>
-    <file name="pp_landingpage_text_poster_.png" crc="3767777547" ref="index"/>
+    <file name="pix_website_display_4.jpg" crc="305453573" seo="true" ref="index"/>
+    <file name="prist_new_masters-favicon.ico" crc="3809930845" ref="pristpixnew"/>
+    <file name="smoked.gif" crc="4246092233" ref="pristpixnew"/>
   </folder>
-  <file name="index.html" crc="3860784665" seo="true" mt="1437402681869" redirect="true"/>
+  <file name="index.html" crc="3898438151" seo="true" mt="1438196593122" redirect="true"/>
+  <file name="pristpixnew.html" crc="3776024973" seo="true" mt="1438196284760" redirect="true"/>
 </manifest>
