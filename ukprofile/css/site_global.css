@@ -135,6 +135,42 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.CompanyDescp
+{
+	color: #A2A2A2;
+	font-family: lato, sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	letter-spacing: 0px;
+}
+
+.rolesummaryTITLE
+{
+	color: #6C6C64;
+	font-family: abel, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 0px;
+}
+
+.rolesummaryTEXT
+{
+	color: #6C6C64;
+	font-family: abel, sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+	letter-spacing: 0px;
+}
+
+.companyhead
+{
+	color: #6B6B6B;
+	font-family: open-sans, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0px;
+}
+
 .list0 li:before
 {
 	position: absolute;
