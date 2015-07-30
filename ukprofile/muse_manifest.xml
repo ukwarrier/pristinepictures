@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1438213535354">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="pristinepictures.in" resolutions="1x" timestamp="1438216491879">
   <folder name="css">
-    <file name="site_global.css" crc="3842870564"/>
-    <file name="index.css" crc="3983821819" ref="index"/>
-    <file name="iefonts_index.css" crc="4254837233" ref="index"/>
+    <file name="site_global.css" crc="4202275464"/>
+    <file name="index.css" crc="269388388" ref="index"/>
+    <file name="iefonts_index.css" crc="305021160" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -16,6 +16,8 @@
     <file name="uk__profile_web.jpg" crc="4068690611" seo="true" ref="index"/>
     <file name="512x512__quotes.svg" crc="322121143" ref="index"/>
     <file name="512x512__quotes_poster_.png" crc="162620558" ref="index"/>
+    <file name="linkedin_f.svg" crc="214263053" ref="index"/>
+    <file name="linkedin_f_poster_.png" crc="438334659" ref="index"/>
   </folder>
-  <file name="index.html" crc="445699467" seo="true" mt="1438213460400" redirect="true"/>
+  <file name="index.html" crc="3780564273" seo="true" mt="1438216459150" redirect="true"/>
 </manifest>
