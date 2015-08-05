@@ -1,0 +1,154 @@
+
+## UNNIKRISHNAN K V, PMP
+###### ukv.jobs@gmail.com   |  +91.9972597450   |  [Linkedin](http://in.linkedin.com/in/ukprofile)
+---- 
+### PROFILE SUMMARY 
+A passion for designing, organizing and managing the efforts that goes into a project from start to finish - in that context, I am a project management professional (PMP), an accomplished technology writer, self-taught UX/UI designer, infinitely curious photographer and a traveler. My project management experience include working with geographically distributed teams, communications management, managing virtual teams and interacting with cross-functional stakeholders. Over the years, I have acquired quite a bit of transferable skills working on various aspects of information architecture such as content development, content quality assurance, user experience and accessibility. 
+---- 
+### PROFESSIONAL EXPERIENCE 
+
+###### 2011 - present CONTENT ENGINEER - Cisco Systems Inc.  
+
+_Learning@Cisco, the Cisco learning division drives technical competency by creating best-in-class career certification course and assessment products for use by Cisco’s customers, partners, and employees. Our primary audience is the hundreds of thousands of individuals worldwide who enroll in Cisco certification courses. This audience is engaged in a learning process that leads to certification at various levels of computer networking proficiency and specialization._ 
+
+**Role Summary**
+Project manage content conversion and localization efforts including establishing and tracking timelines, enterprise support readiness, UAT and beta testing, team meetings and maintaining internal project status communications. Manage and review of curriculum and course designs to validate learning objectives, structure, and content approach. This includes establishing and tracking project plan, cross functional coordination of SMEs, developers, vendors and other geographically distributed shared resources across time zones._ _
+
+RESPONSIBILITIES 
+- Collaborate with business stakeholders, process owners and development team to understand business objectives, requirements, constraints and timelines 
+- Manage the production of learning products (documentation and graphics) for print, web and ePub using Xyleme Learning Content Management System (LCMS), an XML authoring tool 
+- Ensure the health of the xyleme knowledge base by monitoring changes in templates, search capabilities, and lifecycle management 
+- Participate as part of a cross-functional team to transition content development into a knowledge management practice based on the use of intelligent content tools, practices, and methods 
+- Review deliverables produced during user research, usability testing, and provide critical feedback 
+- Conduct regular reviews to ensure project is on track, communicate with the relevant stakeholders on a timely basis 
+- Drive quality efforts to ensure that all final formatting and graphic output meets customer distribution requirements. 
+- Review curriculum and course designs to validate that the learning objectives, content sequencing, and the overall content approach are instructionally sound 
+- Consult content developers, project managers, and other team members as needed with instructional design through an SLA 
+- Work closely with extended team of developers, instructional designers and the Quality Assurance Services team to support meaningful and relevant visual learner experiences within the framework of the client’s brand identity. 
+- Contribute to Xyleme integration and publishing strategy by testing content import and publication customizations, documenting and testing outputs 
+- Support legacy content conversion efforts by training vendor resources and reviewing the converted courses. 
+- Participate in quality improvement programs aimed at improving operational efficiency and customer satisfaction. 
+- Document best practices, optimize current practices 
+- Participate in UAT, UX improvement initiatives, ePub reader (QLM), Mobile content testing etc 
+- Use intelligent content to reduce time to market and costs of developing learning products 
+- Work with cross-functional teams and vendors to define appropriate actions to ensure brand & legal compliance is followed without exception. 
+
+---- 
+###### 2007 - 2011 TECHNICAL WRITER - Cisco Systems Inc. (DataCenter Engineering Team) 
+  
+**Role Summary** 
+Create and track schedules; write release plans, exit criteria; and work across teams and disciplines, stakeholders (writers, editors, product managers, release managers) to communicate requirements and identify risks to the on-time delivery. Responsible for bug tracking/ management; and driving requirements into authoring and other platform publishing tools. Conduct analysis and user research to identify opportunities for improvement across product documentation and online help content. 
+
+**Content Development  (MDS and DCNM products) **
+  
+
+- Create project plans, maintain schedules for specific projects, and communicate documentation status to documentation manager
+- Participate in DCNM and MDS product team meetings representing the team
+- Drive regular team meetings and CDC scrub meetings post FCS
+- Track new and existing features of Fabric Manager / DCNM-SAN for every release
+- Coordinate with the designated editor to track editing schedule of the writers
+- Collaborate with SMEs on content development for new product documentation
+- Involve in scheduling (commits), take informed decisions to improve end user experience, interact with engineering support team to complete technical reviews
+- Participate in legacy document conversions into XML using various tools
+- Report usability issues (bugs) of the product
+- Edit documentation for completeness, style, and accuracy
+- Compile and test online help
+- Author Installation Guides, Configuration Guides, API Guides, Release Notes   
+
+**Achievements**  
+
+- Consistent / progressive performance record.
+- Recognized for cross functional collaboration.
+- Recognized for meeting adhoc requirements against aggressive timelines   
+
+---- 
+###### 2004-2007 - TECHNICAL WRITER  |  Xerox Inc.  
+
+- Coordinate with quality management team for implementing CMM Level-5 processes, 
+- Evaluate and evangelize relevant open source tools
+- Responsible for execution/publication of intranet content using internal CMS systems 
+- Edit and publish the internal newsletter; Author installation guides, user guides; review and update existing documentation to ensure completeness and accuracy
+- Provide graphics and illustration support to development team;  lead the corporate intranet revamping effort
+- Define user interaction and user interface for the S-I-R, a web-based application for automating image to text conversion, storage and retrieval. 
+- Research users and redesign the application to enhance user experience
+- Perform user interviews, contextual observations, task analysis etc
+- Create style guides, scenarios, wireframes, prototypes, and visual mockups
+- Lead a group of three writers and a designer.
+
+**Achievements**
+- Consistent performance record
+- Recognized for providing inputs to improve the user interface of various products
+---- 
+
+###### 2002-2004 - TECHNICAL WRITER    Microsoft Inc.   
+
+Worked for Microsoft’s offline support division authoring MS-Office and MS-Server Knowledge Base articles. These documents carry information such as tricks and tips, known issue details and troubleshooting information etc. written in simple and standardized language for the purpose of ease of localization.
+
+**Technical Content Development** 
+- Author various types of Microsoft Knowledgebase articles such as How To, Information, Problem, Bug, Hotfix and Critical Problem Resolution (CPR) articles
+- Review Knowledge Base article solutions for Microsoft customers and partners
+- Drive QA efforts to make sure  using of appropriate templates, suitable title, abstract, keywords, intended audience, inclusion of relevant boilerplates to maintain consistency for every article published on the web
+
+**Collaboration**
+- Mentor new writers as they come onboard
+- Coordinate with the clients to acquire required information
+
+---- 
+######  2000-2002  WRITER - DESIGNER -  Eonour Technologies Pvt Ltd.  
+
+Redesign the corporate website. Design layouts, traditional marketing materials, UI/wireframe mockups, presentation strategy & design, junior designer mentoring. Prepare datasheets, write-ups and marketing collaterals. Create user manuals for our various products like Fleet Management System, CRM and e-business solutions. Write and edit web site content. 
+
+**Content Development**       
+- Develop Web content
+- Design and create content for Marketing Collaterals,  Product Datasheets, White papers, Press releases
+- Design, organize and publish quarterly company newsletter
+- Created, updated and maintained employee directory
+- User Guides
+**Graphic Design**
+- Website redesign efforts
+- Assist art director on multiple design requirements
+- Create and develop logotype, iconic, and corporate identity assets
+- Collaborate with marketing and communications teams on standardization, design and production of marketing materials
+---- 
+######  1999-2000  TRAINING COORDINATER |  NIIT Ltd.  
+
+- Coordinate delivery of IT education to NIIT students.
+- Schedule trainers, classes and infrastructure as per the requirements
+- Ensure timely delivery of courseware as per the requirements
+- Ensure proper inventory management of courseware
+- Leveraging external and internal network to create resource pool
+- Part of learning and development team that develops NIIT curriculum and online exams
+
+
+# —————————
+---- 
+##### EDUCATION
+- PMI Certified Project Manager
+- Project Management Training (GWU-remote)
+- Microsoft Certified Professional
+- Post Graduate Diploma in Computers
+- Diploma in Journalism and Mass Communication
+- Bachelor of Science
+---- 
+##### SOFTWARE SKILLS
+###### Project Management
+- Microsoft Project
+- SmartSheets
+- Clarity (CA)
+- JIRA, Confluence and Git
+- Microsoft Excel
+###### Designing / UX
+- Adobe Photoshop CC
+- Adobe InDesign CC
+- Adobe Illustrator CC
+- Adobe Lightroom 5x
+- Sketch-3
+- Adobe Muse CC
+###### Documentation
+- Adobe Framemaker 7.2
+- Xyleme LCMS (xml tool)
+- Webworks Automap
+- Corel xMetal
+- DITA, HTMS, CSS, XML
+
+
