@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1440684929971">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1440718321938">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="3952772450" ref="index"/>
-    <file name="iefonts_index.css" crc="375047419" ref="index"/>
+    <file name="index.css" crc="222410148" ref="index"/>
+    <file name="iefonts_index.css" crc="3981196379" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -13,27 +13,17 @@
     <file name="touchswipe.js" crc="4038331989" ref="index"/>
     <file name="jquery.watch.js" crc="71412426" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
-    <file name="form_check.php" crc="437936672" ref="index"/>
-    <file name="form_process.php" crc="4261938016" ref="index"/>
-    <file name="recaptchalib.php" crc="385583985" ref="index"/>
-    <file name="form-u904.php" crc="473608449" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u904.php" crc="4259820093" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="rameswaram (3).jpg" crc="3996771956" seo="true" ref="index"/>
     <file name="motta-source.jpg" crc="365952272" seo="true" ref="index"/>
-    <file name="gallery_images_01-crop-u748.jpg" crc="423252197" ref="index"/>
-    <file name="gallery_images_02-crop-u803.jpg" crc="3897902232" ref="index"/>
-    <file name="gallery_images_03-crop-u812.jpg" crc="4226707678" ref="index"/>
-    <file name="gallery_images_04-crop-u821.jpg" crc="4279138109" ref="index"/>
-    <file name="gallery_images_05-crop-u830.jpg" crc="16624746" ref="index"/>
-    <file name="gallery_images_01-crop-u739.jpg" crc="3890341321" ref="index"/>
-    <file name="gallery_images_02-crop-u806.jpg" crc="377229875" ref="index"/>
-    <file name="gallery_images_03-crop-u815.jpg" crc="467240205" ref="index"/>
-    <file name="gallery_images_04-crop-u824.jpg" crc="3781157938" ref="index"/>
-    <file name="gallery_images_05-crop-u833.jpg" crc="4266344196" ref="index"/>
     <file name="u915-17.png" crc="4218299225" ref="index"/>
     <file name="u915-17-r.png" crc="4278396916" ref="index"/>
     <file name="u915-17-m.png" crc="196374678" ref="index"/>
@@ -44,19 +34,30 @@
     <file name="checkboxchecked.jpg" crc="3760363524" ref="index"/>
     <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="index"/>
     <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="index"/>
-    <file name="recaptchamodeaudio.png" crc="140711744" ref="index"/>
-    <file name="recaptchamodeaudiorollover.jpg" crc="4012741543" ref="index"/>
-    <file name="recaptchamodeaudiomousedown.jpg" crc="169475968" ref="index"/>
-    <file name="recaptchamodeimage.png" crc="3933454017" ref="index"/>
-    <file name="recaptchamodeimagerollover.jpg" crc="81540066" ref="index"/>
-    <file name="recaptchamodeimagemousedown.jpg" crc="303121703" ref="index"/>
-    <file name="recaptcharefresh.png" crc="249852327" ref="index"/>
-    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="index"/>
-    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="index"/>
-    <file name="recaptchahelp.png" crc="503944989" ref="index"/>
-    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="index"/>
-    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="index"/>
-    <file name="ux-master-favicon.png" crc="148488373" seo="true" ref="index"/>
+    <file name="favicon.ico" crc="4119262506" ref="index"/>
+    <file name="pristinelogo44px.png" crc="335929987" seo="true" ref="index"/>
+    <file name="showcase_001.jpg" crc="60327064" seo="true" ref="index"/>
+    <file name="showcase_002.jpg" crc="4070853323" seo="true" ref="index"/>
+    <file name="showcase_003.jpg" crc="3766662224" seo="true" ref="index"/>
+    <file name="showcase_004.jpg" crc="4094767052" seo="true" ref="index"/>
+    <file name="showcase_005.jpg" crc="3827798053" seo="true" ref="index"/>
+    <file name="showcase_006.jpg" crc="4075392934" seo="true" ref="index"/>
+    <file name="showcase_007.jpg" crc="199169922" seo="true" ref="index"/>
+    <file name="showcase_008.jpg" crc="4101418384" seo="true" ref="index"/>
+    <file name="showcase_009.jpg" crc="4208233984" seo="true" ref="index"/>
+    <file name="showcase_010.jpg" crc="4210060161" seo="true" ref="index"/>
+    <file name="showcase_011.jpg" crc="4209803497" seo="true" ref="index"/>
+    <file name="showcase_001-crop-u1185.jpg" crc="40060276" ref="index"/>
+    <file name="showcase_002-crop-u1282.jpg" crc="4288994578" ref="index"/>
+    <file name="showcase_003-crop-u1291.jpg" crc="4073371314" ref="index"/>
+    <file name="showcase_004-crop-u1300.jpg" crc="348675680" ref="index"/>
+    <file name="showcase_005-crop-u1309.jpg" crc="4270869034" ref="index"/>
+    <file name="showcase_006-crop-u1318.jpg" crc="523945139" ref="index"/>
+    <file name="showcase_007-crop-u1327.jpg" crc="3795467179" ref="index"/>
+    <file name="showcase_008-crop-u1336.jpg" crc="4265900102" ref="index"/>
+    <file name="showcase_009-crop-u1345.jpg" crc="3760798257" ref="index"/>
+    <file name="showcase_010-crop-u1354.jpg" crc="3903817433" ref="index"/>
+    <file name="showcase_011-crop-u1363.jpg" crc="3949472210" ref="index"/>
   </folder>
-  <file name="index.html" crc="44233344" seo="true" mt="1440684819296" redirect="true"/>
+  <file name="index.html" crc="456892092" seo="true" mt="1440718114166" redirect="true"/>
 </manifest>
