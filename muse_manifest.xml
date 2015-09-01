@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1440718321938">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1441082325868">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="222410148" ref="index"/>
+    <file name="index.css" crc="431996292" ref="index"/>
     <file name="iefonts_index.css" crc="3981196379" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -23,7 +23,6 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="rameswaram (3).jpg" crc="3996771956" seo="true" ref="index"/>
-    <file name="motta-source.jpg" crc="365952272" seo="true" ref="index"/>
     <file name="u915-17.png" crc="4218299225" ref="index"/>
     <file name="u915-17-r.png" crc="4278396916" ref="index"/>
     <file name="u915-17-m.png" crc="196374678" ref="index"/>
@@ -58,6 +57,7 @@
     <file name="showcase_009-crop-u1345.jpg" crc="3760798257" ref="index"/>
     <file name="showcase_010-crop-u1354.jpg" crc="3903817433" ref="index"/>
     <file name="showcase_011-crop-u1363.jpg" crc="3949472210" ref="index"/>
+    <file name="pngukprofile-pix-modify.png" crc="390639992" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="456892092" seo="true" mt="1440718114166" redirect="true"/>
+  <file name="index.html" crc="153757775" seo="true" mt="1441082261585" redirect="true"/>
 </manifest>
