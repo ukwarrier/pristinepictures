@@ -1,8 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1441082325868">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1441695231463">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="431996292" ref="index"/>
-    <file name="iefonts_index.css" crc="3981196379" ref="index"/>
+    <file name="index.css" crc="494087085" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -34,7 +33,6 @@
     <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="index"/>
     <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="index"/>
     <file name="favicon.ico" crc="4119262506" ref="index"/>
-    <file name="pristinelogo44px.png" crc="335929987" seo="true" ref="index"/>
     <file name="showcase_001.jpg" crc="60327064" seo="true" ref="index"/>
     <file name="showcase_002.jpg" crc="4070853323" seo="true" ref="index"/>
     <file name="showcase_003.jpg" crc="3766662224" seo="true" ref="index"/>
@@ -58,6 +56,10 @@
     <file name="showcase_010-crop-u1354.jpg" crc="3903817433" ref="index"/>
     <file name="showcase_011-crop-u1363.jpg" crc="3949472210" ref="index"/>
     <file name="pngukprofile-pix-modify.png" crc="390639992" seo="true" ref="index"/>
+    <file name="svgnewpristinelogo2.svg" crc="4159968134" ref="index"/>
+    <file name="svgnewpristinelogo2_poster_.png" crc="4106102823" ref="index"/>
+    <file name="name_pristine_4_web.svg" crc="4189749513" ref="index"/>
+    <file name="name_pristine_4_web_poster_.png" crc="3832067225" ref="index"/>
   </folder>
-  <file name="index.html" crc="153757775" seo="true" mt="1441082261585" redirect="true"/>
+  <file name="index.html" crc="4141485825" seo="true" mt="1441695166440" redirect="true"/>
 </manifest>
