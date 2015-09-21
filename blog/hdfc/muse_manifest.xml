@@ -1,0 +1,21 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hdfcsupportsucks.com" resolutions="1x" timestamp="1442809326388">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3953842125" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="name_pristine_4_web.svg" crc="4189749513" ref="index"/>
+    <file name="name_pristine_4_web_poster_.png" crc="4129814867" ref="index"/>
+    <file name="svgnewpristinelogo2.svg" crc="4159968134" ref="index"/>
+    <file name="svgnewpristinelogo2_poster_.png" crc="327432218" ref="index"/>
+    <file name="caution.png" crc="3807398266" seo="true" ref="index"/>
+    <file name="cautionhdfcahead.jpg" crc="364014234" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="224880581" seo="true" mt="1442809236697" redirect="true"/>
+</manifest>
