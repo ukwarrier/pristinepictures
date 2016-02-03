@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------*/
-/*	    test
+/*	    01_pristinepicturesnew
 /*      Built with Blocs
 /*-----------------------------------------------------------------------------------*/
 
@@ -155,9 +155,6 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 .voffset{
 	margin-top:30px;
-}
-.voffset-lg{
-	margin-top:80px;
 }
 
 /* Bloc text custom styling */
@@ -349,8 +346,8 @@ button{
 	margin:0 0 0 5px}
 /* = Icons
 -------------------------------------------------------------- */
-.icon-sm{
-	font-size:18px!important;
+.icon-md{
+	font-size:30px!important;
 }
 .icon-xl{
 	font-size:100px!important;
@@ -374,9 +371,6 @@ button{
 
 /* = Text & Icon Styles
 -------------------------------------------------------------- */
-.sm-shadow{
-	text-shadow:0 1px 2px rgba(0,0,0,.3);
-}
 .lg-shadow{
 	text-shadow:0 2px 5px rgba(0,0,0,.5);
 }
@@ -397,6 +391,19 @@ button{
 
 
 
+/* Empty space fillers - Used on empty blocs to fill them out */
+
+.empty-column,.empty-column.thin{
+	width:100%;
+	height:350px;
+	display:inline-block;
+}
+.empty-column{
+	height:350px;
+}
+.empty-column.thin{
+	height:150px;
+}
 /* iFrame */
 
 iframe{
@@ -515,10 +522,10 @@ a[data-lightbox]:hover img{
 /* Bloc image backgrounds */
 
 .bg-rameswaram{
-	background-image:url('img/rameswaram.jpg');
+	background-image:url("img/rameswaram.jpg");
 }
 .bg-highway{
-	background-image:url('img/highway.jpg');
+	background-image:url("img/highway.jpg");
 }
 
 
