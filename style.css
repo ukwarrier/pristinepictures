@@ -346,9 +346,6 @@ button{
 	margin:0 0 0 5px}
 /* = Icons
 -------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
-}
 .icon-xl{
 	font-size:100px!important;
 }
@@ -485,6 +482,16 @@ a[data-lightbox]:hover img{
 .prev-lightbox:hover, .next-lightbox:hover{
 	border-right-color:rgba(255,255,255,.9);
 	border-left-color:rgba(255,255,255,.9);
+}
+
+/* Snap Shot */
+.snapshot-lb .modal-body{
+	padding-bottom:45px;
+}
+.snapshot-lb .lightbox-caption{
+	padding: 0;
+	color:rgba(0,0,0,.5);
+	background: none;
 }
 
 /* = Custom Colour Styling
